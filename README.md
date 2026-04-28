@@ -1,2 +1,2 @@
-# F-sica
+# Física
 trabalho de Lpwt3
